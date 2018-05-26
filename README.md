@@ -1,30 +1,32 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
+# 당신은 ChungSangHee의 깃헙에 방문하셨습니다.
   
-## `Sorry guys but there will be no update until I buy a new laptop.`
+## 이곳은 Portfolio를 정리하기 위한 개인 공간입니다.
     
-######(If you like this theme or using it, please give a :star: for motivation.)
+###### 깃헙페이지 메뉴 안내
+** About : 이력 안내
+** Posts : 프로그래밍 공부 일지
+** Projects : 포트폴리오 및 학습결과물 정리
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+## JAVA 학습 요약
+* JAVA
+** JAVA문법 - Data의 분류
+** JAVA문법 - 연산자
+** JAVA문법 - 제어문
+** JAVA문법 - 배열과 리스트
+** JAVA문법 - 변수
+** JAVA문법 - 클래스
+** JAVA문법 - 메소드
+** JAVA문법 - 인터페이스
+** JAVA문법 - 패키지
+** JAVA문법 - 자료구조
+** JAVA문법 - 예외처리
+** JAVA문법 - 스레드
+** JAVA문법 - 네트워크
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 데이터베이스 요약
 
-## Preview
+## Web 요약 
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+## Android 요약
 
-See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+##  
