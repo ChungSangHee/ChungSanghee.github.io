@@ -1,37 +1,37 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about, resume, profile, chungsanghee]
+date: 2018-06-20
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 이력
+* ~2006 숙명여자대학교 정보과학부 컴퓨터멀티미디어학과 졸업
+* ~2010 출판 디자인, 교육용 학습 그래픽 디자인
+* ~2012 서비스 및 판매직
+* ~2013 그린컴퓨터학원 3D그래픽디자인 4개월 과정 수료
+* ~2016 덱스터스튜디오 R&D팀 군중시뮬레이션
+* ~2017 아이노드 모바일연예시뮬레이션게임 디자인 Asset관리 및 인게임 개발 구조 기획
+* ~2018 더조은컴퓨터 JAVA 스마트 웹&콘텐츠 개발자 양성 6개월 과정 수료
 
-## Preview
+## 보유기술
+#### 학습
+* OS : window7
+* language : java 1.8
+* WAS : apache tomcat 8.0
+* DB : Oracle 11g, MySQL, MongoDB
+* IDE : Eclipse, Spring Tool Suit, Android Studio
+* 테스트모듈 : JUnit 
+#### 포트폴리오
+* OS : macOS high sierra 개발, linux CentOS DB구축
+* language : java 10.0.1
+* WAS : apache tomcat 8.5
+* DB : Oracle 11g
+* IDE : IntelliJ
+* 테스트모듈 : JUnit
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Portfolio
+Java application : 제품관리 소켓프로그램
+Java Web Application : 크롤링 웹페이지
+Android Application : 가구점 매거진 앱
