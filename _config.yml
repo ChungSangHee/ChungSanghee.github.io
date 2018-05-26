@@ -1,7 +1,7 @@
 # Site
 title:              ChungSangHee's Blog
-bio:                'for Portfolio - Java Web Application'
-description:        "JAVA를 이용한 Portfolio를 모아둔 공간입니다."
+bio:                'for Portfolio'
+description:        "Portfolio를 위한 개인 Blog입니다."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
