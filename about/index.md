@@ -16,6 +16,7 @@ comments: false
 * ~2018 더조은컴퓨터 JAVA 스마트 웹&콘텐츠 개발자 양성 6개월 과정 수료
 
 ## 보유기술
+
 #### 학습
 * OS : window7
 * language : java 1.8
@@ -23,6 +24,7 @@ comments: false
 * DB : Oracle 11g, MySQL, MongoDB
 * IDE : Eclipse, Spring Tool Suit, Android Studio
 * 테스트모듈 : JUnit 
+
 #### 포트폴리오
 * OS : macOS high sierra 개발, linux CentOS DB구축
 * language : java 10.0.1 (Project Language Level 8.0)
