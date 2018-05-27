@@ -6,6 +6,7 @@ date: 2018-06-20
 comments: false
 ---
 ![profileImage](./IMG_9464.jpg)
+<img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
 
 ## 이력
 * ~2006 숙명여자대학교 정보과학부 컴퓨터멀티미디어학과 졸업
