@@ -5,7 +5,7 @@ tags: [about, resume, profile, chungsanghee]
 date: 2018-06-20
 comments: false
 ---
-![profileImage](/IMG_9464.jpg "profile"){: width="30" height="100" : .center}
+![profileImage](/about/IMG_9464.jpg "profile"){: width="30" height="100" }{: .center}
 
 ## 이력
 * ~2006 숙명여자대학교 정보과학부 컴퓨터멀티미디어학과 졸업
