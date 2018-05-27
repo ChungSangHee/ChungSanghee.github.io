@@ -25,13 +25,13 @@ comments: false
 * 테스트모듈 : JUnit 
 #### 포트폴리오
 * OS : macOS high sierra 개발, linux CentOS DB구축
-* language : java 10.0.1
+* language : java 10.0.1 (Project Language Level 8.0)
 * WAS : apache tomcat 8.5
 * DB : Oracle 11g
 * IDE : IntelliJ
 * 테스트모듈 : JUnit
 
 ## Portfolio
-Java application : 제품관리 소켓프로그램
+Java application : 개인도서관리 프로그램
 Java Web Application : 크롤링 웹페이지
 Android Application : 가구점 매거진 앱
