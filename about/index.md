@@ -5,9 +5,9 @@ tags: [about, resume, profile, chungsanghee]
 date: 2018-06-20
 comments: false
 ---
-![profileImage](/IMG_9464.jpg "profile"){: width="30" height="100" }{: .center}
+![profileImage](https://github.com/ChungSangHee/ChungSanghee.github.io/tree/master/about/IMG_9464.jpg "profile"){: width="30" height="100" }{: .center}
 <figure>
-	<img src="https://github.com/ChungSangHee/ChungSanghee.github.io/tree/master/about/IMG_9464.jpg">
+	<img src="https://github.com//ChungSangHee//ChungSanghee.github.io//tree//master//about//IMG_9464.jpg">
 </figure>
 {% capture images %}
 	https://github.com/ChungSangHee/ChungSanghee.github.io/tree/master/about/IMG_9464.jpg
