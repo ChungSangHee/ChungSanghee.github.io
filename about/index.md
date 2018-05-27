@@ -5,13 +5,7 @@ tags: [about, resume, profile, chungsanghee]
 date: 2018-06-20
 comments: false
 ---
-![profileImage](https://github.com/ChungSangHee/ChungSanghee.github.io/tree/master/about/IMG_9464.jpg "profile"){: width="30" height="100" }{: .center}
-<figure>
-	<img src="https://github.com//ChungSangHee//ChungSanghee.github.io//tree//master//about//IMG_9464.jpg">
-</figure>
-{% capture images %}
-	https://github.com/ChungSangHee/ChungSanghee.github.io/tree/master/about/IMG_9464.jpg
-{% endcapture %}
+![profileImage](./IMG_9464.jpg "profile") { : width="30" height="100" } { : .center}
 
 ## 이력
 * ~2006 숙명여자대학교 정보과학부 컴퓨터멀티미디어학과 졸업
