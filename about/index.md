@@ -5,7 +5,7 @@ tags: [about, resume, profile, chungsanghee]
 date: 2018-06-20
 comments: false
 ---
-![profileImage](IMG_9464.jpg "profile") { : width="100" height="100" } { : .center}
+![profileImage](IMG_9464.jpg "profile")
 
 ## 이력
 * 1999~2004 숙명여자대학교 정보과학부 컴퓨터멀티미디어과 졸업
@@ -23,11 +23,11 @@ comments: false
 * language : java 1.8
 * WAS : apache tomcat 8.0
 * DB : Oracle 11g, MySQL, MongoDB
-* IDE : Eclipse, Spring Tool Suit, Android Studio
+* IDE : Eclipse, Spring Tool Suit, Android Studio(3.1.2)
 * 테스트모듈 : JUnit 
 
 #### 포트폴리오
-* OS : macOS high sierra 개발, linux CentOS DB구축
+* OS : macOS high sierra 개발
 * language : java 10.0.1 (Project Language Level 8.0)
 * WAS : apache tomcat 8.5
 * DB : Oracle 11g
@@ -35,6 +35,4 @@ comments: false
 * 테스트모듈 : JUnit
 
 ## Portfolio
-* Java application : 개인도서관리 프로그램
-* Java Web Application : 크롤링 웹페이지
 * Android Application : 가구점 매거진 앱
