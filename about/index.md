@@ -5,9 +5,11 @@ tags: [about, resume, profile, chungsanghee]
 date: 2018-07-20
 comments: false
 ---
+
 <img src="https://github.com/ChungSangHee/ChungSanghee.github.io/blob/master/about/IMG_9464.JPG?raw=true" width="15%"></img>
 
-## 이력
+---
+### 이력
 * 1999~2004     | 숙명여자대학교 정보과학부 컴퓨터과학과 졸업
 * 2001~2010     | 출판 디자인, 교육용 학습 그래픽 디자인
 * 2010~2012     | 서비스 및 판매직
@@ -17,7 +19,8 @@ comments: false
 * 2018          | 메가스터디IT JAVA 웹&앱 개발자 양성과정 수료
 
 
-## 개발환경 
+---
+### 개발환경 
 
 #### 학습
 * OS : window7
@@ -42,5 +45,7 @@ comments: false
 * FrontEnd : html, css, javascript, jQuery, bootstrap, Swing, openAPI종류
 
 
-## Portfolio
+---
+### Portfolio
 * Android Application : 가구점 매거진 앱
+---
