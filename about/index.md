@@ -6,7 +6,7 @@ date: 2018-07-20
 comments: false
 ---
 
-![profileImage](IMG_9464.jpg "profile")
+![profileImage](about/IMG_9464.jpg "profile")
 
 ## 이력
 * 1999~2004     | 숙명여자대학교 정보과학부 컴퓨터과학과 졸업
