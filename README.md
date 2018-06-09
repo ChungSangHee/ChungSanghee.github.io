@@ -6,7 +6,10 @@
 * Posts : 프로그래밍 공부 일지
 * Projects : 포트폴리오 및 학습결과물 정리
 
-## JAVA
+
+
+## 학습 목차 정리
+#### JAVA
 * JAVA란?
 * JAVA 환경 세팅 
 * JAVA문법 - Data의 분류
@@ -24,7 +27,7 @@
 * JAVA문법 - 네트워크
 * JAVA문법 - 람다(Lambda)
 
-## 데이터베이스
+#### 데이터베이스
 * Oracle 환경 세팅
     * SQL - DQL, DML, TCL
     * SQL - DDL, DCL
@@ -35,7 +38,7 @@
     * SQL
 * SQLite
 
-## Web 
+#### Web 
 * HTML
 * HTML5
 * CSS
@@ -47,14 +50,14 @@
 * JQuery
 * Bootstrap
 
-## STS (Spring Tool Set)
+#### STS (Spring Tool Set)
 * IoC, DI, AOP
 * MyBatis
 * Hibernate
 
-## Android Studio
+#### Android Studio
 
-## Parsing(Crawling) 
+#### Parsing(Crawling) 
 * csv Parsing
 * HTML Parsing
 * XML Parsing
